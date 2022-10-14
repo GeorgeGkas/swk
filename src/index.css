@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.h-page {
+  height: 100vh;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.px-1 {
+  padding: 0 1rem;
+}
+
+.flex-grow-1 {
+  flex-grow: 1;
+}
+
+.min-w-1\/5 {
+  min-width: 20%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.py-1 {
+  padding: 1rem 0;
+}
+
+.text-sm {
+  font-size: 0.8rem;
+}
+
+.color-red {
+  color: red;
+}
+
+.p-0 {
+  padding: 0;
+}
+
+.pt-1 {
+  padding-top: 1rem;
+}
